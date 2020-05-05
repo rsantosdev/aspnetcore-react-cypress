@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2020-05-06T08:57:14.2455161-03:00",
+        "temperatureC": 15,
+        "temperatureF": 58,
+        "summary": "Quente"
+    },
+    {
+        "date": "2020-05-07T08:57:14.2455268-03:00",
+        "temperatureC": 47,
+        "temperatureF": 116,
+        "summary": "Frio"
+    },
+    {
+        "date": "2020-05-08T08:57:14.2455308-03:00",
+        "temperatureC": 32,
+        "temperatureF": 89,
+        "summary": "Balmy"
+    },
+    {
+        "date": "2020-05-09T08:57:14.2455345-03:00",
+        "temperatureC": 17,
+        "temperatureF": 62,
+        "summary": "Escaldante"
+    },
+    {
+        "date": "2020-05-10T08:57:14.2455387-03:00",
+        "temperatureC": 18,
+        "temperatureF": 64,
+        "summary": "Bracing"
+    }
+]
